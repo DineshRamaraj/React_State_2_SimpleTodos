@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto';
+  color: #000000;
+}
+.button {
+  width: 110px;
+  height: 35px;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  font-size: 14px;
+}
